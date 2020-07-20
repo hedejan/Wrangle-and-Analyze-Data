@@ -1,10 +1,6 @@
 # Wrangle and Analyze Data
  Data Wrangling Project - Data Analyst Nanodegree with Udacity
 
-
- # Wrangle and Analyze Data
- Udacity Data Analyst April 2020 - September 2020.
-
  Project 5: Wrangle and Analyze Data - WeRateDogs twitter account
 
  # Project Overview
