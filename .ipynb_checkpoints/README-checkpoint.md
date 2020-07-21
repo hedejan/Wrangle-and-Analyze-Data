@@ -52,4 +52,4 @@
  ## Report
  Two reports:
  - Wrangling efforts are briefly described in wrangle_report.html.
- - The three (3) or more insights the student found are communicated in act_report.html including visualization.
+ - The three (3) or more insights the student found are communicated in act_report.pdf including visualization.
